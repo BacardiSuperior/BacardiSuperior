@@ -1,12 +1,13 @@
-# Introduction
+<p align='center'>
+  <img style="height:auto;" alt="" src="https://avatars.githubusercontent.com/u/169923511?v=4" width="260" height="260" class="avatar avatar-user width-full border color-bg-default">
+  <h2 align='center'>TOBES</h2>
+  <h4 align='center'>I like Cantonese morning tea</h4>
+  
+  # Introduction
 I'm a student at university
-- 👋 Hi, I’m @BacardiSuperior
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hello world!
+- 👀 I’m interested in website design
+- 🌱 I’m currently learning Front-end development
 
 <!---
 BacardiSuperior/BacardiSuperior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
