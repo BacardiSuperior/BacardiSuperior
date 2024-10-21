@@ -1,12 +1,13 @@
+<h1 align='center'>👋 Hello world!</h1>
+<br>
 <p align='center'>
-  <img style="height:auto;" alt="" src="https://avatars.githubusercontent.com/u/169923511?v=4" width="260" height="260" class="avatar avatar-user width-full border color-bg-default">
-  <h2 align='center'>TOBES</h2>
+  <img align='center' style="height:auto;" alt="" src="https://tse1-mm.cn.bing.net/th/id/OIP-C.Ij_29hjREZNJ6P3tgFA8MQHaE8?rs=1&amp;pid=ImgDetMain" width="260" height="260" class="avatar avatar-user width-full border color-bg-default">
+  <h2 align='center'>I'm a student at university</h2>
   <h4 align='center'>I like Cantonese morning tea</h4>
-  
-  # Introduction
-I'm a student at university
-- 👋 Hello world!
+</p>
+<br>
 - 👀 I’m interested in website design
+<br>
 - 🌱 I’m currently learning Front-end development
 
 <!---
